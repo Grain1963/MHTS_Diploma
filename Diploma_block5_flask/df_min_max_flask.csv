@@ -1,0 +1,3 @@
+ratio_filler_matrix,pattern_angle,step_strip,density_strip,density,elasticity_module,number_hardeners,content_epoxy_groups,flash_temperature,surface_density,elasticity_module_stretching,strapery_strength,resin_consumption
+0.6,0,1.6,30.0,1790.0,54.0,36.0,16.5,187.0,30.0,66.0,1326.0,80.0
+5.3,1,13.0,86.0,2160.0,1560.0,180.0,28.5,385.0,1200.0,81.0,3600.0,350.0
