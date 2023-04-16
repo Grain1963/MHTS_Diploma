@@ -21,7 +21,7 @@
 
 Получен полный отчет profile_report_composites.html (записан в директорию profile_report) по исходному объединенному df   и отчет profile_report_composites_clean_outliers.html,   по очищенному от выбросов df data_main_clean.csv.
 
-Рабочий Проект разделен на 4 части:
+Рабочий Проект разделен на 5 частей:
 
 1.Diploma_block1_clean.ipynb:
 - Проведено объединение двух входных df в один по методу INNER.
